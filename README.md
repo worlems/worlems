@@ -14,6 +14,7 @@ I'm a Junior Frontend Developer passionate about building responsive and user-fr
 
 - 📇 [Contact Book App](https://github.com/worlems/goit-react-hw-08/tree/main) – Contact manager with authentication and API integration
 - 🔍 [Image Search App](https://github.com/worlems/goit-react-hw-04) – Image search powered by Unsplash API
+- 🚗 [RentalCar](https://github.com/worlems/RentalCar) – Frontend for a car rental service with catalog filtering, car details, and booking form
 
 ## 📫 Contact
 
