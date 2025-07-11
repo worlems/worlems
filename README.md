@@ -9,6 +9,7 @@ I'm a Junior Frontend Developer passionate about building responsive and user-fr
 - React, Redux Toolkit
 - Axios, Formik, Vite
 - Git, GitHub
+- Node.js
 
 ## 🚀 Projects
 
