@@ -1,6 +1,6 @@
 # Hi there, I'm Vladyslav 👋
 
-I'm a Junior Frontend Developer passionate about building responsive and user-friendly web interfaces. I work mainly with HTML, CSS, JavaScript, and I'm currently diving deeper into React and TypeScript.
+I am a Junior Fullstack Developer passionate about building responsive and user-friendly web interfaces. I mainly work with HTML, CSS, and JavaScript, and have already dived deeper into React, TypeScript, and Node.js.
 
 ## 🛠️ Tech Stack
 
